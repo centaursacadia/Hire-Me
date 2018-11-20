@@ -1,0 +1,65 @@
+.navy {
+    color:#191970;
+}
+body {
+    background-color:#FFFACD;
+    
+}
+ul{
+     font-size:30px; 
+     font-family: 'Montserrat', sans-serif;
+     text-align:center;
+     color:purple;
+} 
+h1{
+     font-size:60px; 
+     text-align:center;
+
+     color:#DDA0DD			;
+     font-family: 'Montserrat', sans-serif;
+
+
+}
+h2{
+    font-size:40px;   
+    color:#4B0082	;
+    text-align:center;
+
+    font-family: 'Montserrat', sans-serif;
+
+} 
+.cat{
+     width:300px; 
+        
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+p{
+     font-size:30px;   
+     color: #4B0082 ;
+     text-align:center;
+
+}
+.glitter{
+  width:100px;   
+}
+.glitter2{
+    width:100px;   
+    float:right;
+}
+.sun{
+    width:100px;    
+}
+.sun2{
+    width:100px;
+    float:right;
+}
+div{
+    display:flex;
+    justify-content:center;
+}
